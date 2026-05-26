@@ -3,6 +3,8 @@ jtsierra/jtsierra is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Tomas Sierra
+José Tomás Sierra
+<br>
 SWE
-https://tomasjsierra.me/
+<br>
+https://tomasjsierra.me
